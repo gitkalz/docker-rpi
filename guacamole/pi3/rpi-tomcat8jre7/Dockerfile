@@ -1,6 +1,6 @@
 # Inspired from MAINTAINER Carlos Moro kudos to Hypriot <dordoka@gmail.com>
 # Pull base image
-FROM resin/rpi-raspbian
+FROM resin/raspberrypi3-debian:jessie
 MAINTAINER Kalyan
 
 # Default to UTF-8 file.encoding
