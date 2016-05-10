@@ -25,7 +25,7 @@
 #
 
 # Start from CentOS base image
-FROM resin/rpi-raspbian
+FROM resin/raspberrypi3-debian:jessie
 MAINTAINER Michael Jumper <mike.jumper@guac-dev.org>
 
 # Environment variables
