@@ -25,7 +25,7 @@
 #
 # This is meant for running on a Rasberrry Pi.
 # Start from Tomcat image
-FROM kalz/rpi-tomcat8jre7
+FROM kalz/rpi-tomcat8jre7:pi3
 MAINTAINER Kalyan
 
 # Version info
